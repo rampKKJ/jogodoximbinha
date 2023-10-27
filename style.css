@@ -29,7 +29,7 @@ h2 {
   font-weight: 300;
   padding-top: 10px;
   text-align: center;
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(122, 9, 9);
 }
 
 .botao-recarregar {
@@ -38,7 +38,7 @@ h2 {
   margin-top: 20px;
   padding: 10px 20px;
   border: 2px solid rgba(223, 1, 1, 0.13);
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(148, 4, 4);
   color: black;
   cursor: pointer;
 }
